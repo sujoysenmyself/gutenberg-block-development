@@ -12,6 +12,11 @@ return array(
 		'example' => array(
 			
 		),
+		'attributes' => array(
+			'content' => array(
+				'type' => 'string'
+			)
+		),
 		'supports' => array(
 			'html' => false,
 			'anchor' => true,
